@@ -971,3 +971,9 @@ TLP decoder, DMARD CTRL, DMAWR CTRL и MSI-X CTRL одновременно от�
 ## Что дальше?
 
 Во второй части будут описаны строение и принцип работы DMA-контроллера, а также принцип работы драйвера, который для него был написан. Надеюсь, вам понравилась моя первая статья и будете ждать вторую часть!
+
+## Источники
+- https://dn760103.eu.archive.org/0/items/os-dev-manuals/pcie%20spec%20rev%202.0.pdf - архив спецификации PCIe 2.0;
+- https://docs.amd.com/v/u/en-US/ug477_7Series_IntBlock_PCIe - юзер гайд 7 Series FPGAs Integrated Block for PCI Express (UG477);
+- https://docs.amd.com/v/u/en-US/ug476_7Series_Transceivers - юзер гайд 7 Series FPGAs GTX/GTH Transceivers (UG476);
+- https://github.com/apoj-inc/Kintex-7-PCIe-DMA - репозиторий с проектом.
